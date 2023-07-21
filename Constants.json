@@ -1,0 +1,5 @@
+{
+  "MONGO_URI": "mongodb://13.51.194.197:27017/bookshelf",
+  "IPADDRESS": "13.51.194.197",
+  "PORT": "8080"
+}
